@@ -1,0 +1,48 @@
+html {
+    background-color: black;
+}
+header {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: green;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+a:active {
+    color: yellow;
+    text-decoration: none;
+}
+body {
+    width: 600px;
+    margin: 40px auto;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+}
+nav {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    font-style: bold;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    align-items: center;
+    border: 3px solid white;
+}
