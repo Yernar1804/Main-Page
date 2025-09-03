@@ -9,11 +9,11 @@ header {
 }
 a:link {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:visited {
     color: green;
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:hover {
     color: red;
@@ -46,3 +46,4 @@ img {
     align-items: center;
     border: 3px solid white;
 }
+
